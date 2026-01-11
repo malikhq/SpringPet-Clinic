@@ -5,6 +5,7 @@
 2. docker
 3. sonarqube
 4. Maven
+5. CICD
 
 
 
